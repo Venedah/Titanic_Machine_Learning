@@ -13,3 +13,12 @@ i.) On April 15, 1912, during her maiden voyage, the Titanic sank after collidin
 ii.) One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew.
     
 iii.) Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
+
+### Results
+### ML-Model Scores
+1. Random Forest	86.76
+2.	Decision Tree	86.76
+3.	KNN	83.84
+4.	Logistic Regression	80.36
+5.	Support Vector Machines	78.23
+6.	Naive Bayes	72.28
